@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-24T09:50:45.278Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="1T7drL3iaOJQ9axIqGI-" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-24T10:52:14.930Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="PMlGHusJsV5uAB7E5gJV" version="16.2.4" type="github">
   <diagram id="N0AUgcmTbGkNC3BxYgMO" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="5Uh7s-i_dmMY0xpZVAKY-11" value="List of Tags/Keywords (not mandatory):" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="105" y="620" width="220" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="MxBJ1zMMHjyBSrrAAL6q-1" value="&lt;font style=&quot;font-size: 13px&quot;&gt;New&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#ffffff;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacingLeft=10;" vertex="1" parent="1">
+        <mxCell id="MxBJ1zMMHjyBSrrAAL6q-1" value="&lt;font style=&quot;font-size: 13px&quot;&gt;New&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#869199;fontColor=#ffffff;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacingLeft=10;" vertex="1" parent="1">
           <mxGeometry x="18" y="50" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MxBJ1zMMHjyBSrrAAL6q-2" value="" style="shape=triangle;direction=south;fillColor=#ffffff;strokeColor=none;perimeter=none;" vertex="1" parent="MxBJ1zMMHjyBSrrAAL6q-1">
@@ -48,7 +48,7 @@
             <mxPoint y="34" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MxBJ1zMMHjyBSrrAAL6q-25" value="" style="html=1;shadow=0;dashed=0;fillColor=#647687;strokeColor=#314354;fontSize=16;fontColor=#ffffff;align=left;spacing=15;" vertex="1" parent="1">
+        <mxCell id="MxBJ1zMMHjyBSrrAAL6q-25" value="" style="html=1;shadow=0;dashed=0;fillColor=#869199;strokeColor=#314354;fontSize=16;fontColor=#ffffff;align=left;spacing=15;" vertex="1" parent="1">
           <mxGeometry x="150" y="40" width="658" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MxBJ1zMMHjyBSrrAAL6q-26" value="Search" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=14;fontColor=#6C767D;strokeColor=#CED4DA;fillColor=#ffffff;align=left;spacing=10;" vertex="1" parent="MxBJ1zMMHjyBSrrAAL6q-25">
@@ -56,8 +56,16 @@
             <mxPoint x="-649" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MxBJ1zMMHjyBSrrAAL6q-27" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Search&amp;nbsp;&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=default;strokeWidth=1;fillColor=#6C767D;fontColor=#ffffff;whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=0;fontSize=14;spacingLeft=10;gradientColor=none;" vertex="1" parent="MxBJ1zMMHjyBSrrAAL6q-25">
+        <mxCell id="MxBJ1zMMHjyBSrrAAL6q-27" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Search&amp;nbsp;&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=default;strokeWidth=1;fillColor=#869199;fontColor=#ffffff;whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=0;fontSize=14;spacingLeft=10;gradientColor=none;" vertex="1" parent="MxBJ1zMMHjyBSrrAAL6q-25">
           <mxGeometry x="530" y="10" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxBJ1zMMHjyBSrrAAL6q-33" value="Choose file" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=left;spacingLeft=0;spacing=15;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="30" y="200" width="800" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MxBJ1zMMHjyBSrrAAL6q-34" value="&lt;font style=&quot;font-size: 13px&quot; color=&quot;#ffffff&quot;&gt;Browse&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rightButton;strokeColor=#23445d;fillColor=#869199;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;" vertex="1" parent="MxBJ1zMMHjyBSrrAAL6q-33">
+          <mxGeometry x="1" width="70" height="30" relative="1" as="geometry">
+            <mxPoint x="-70" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
