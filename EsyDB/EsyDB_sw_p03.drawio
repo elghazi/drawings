@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-24T11:24:58.820Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="7va8gLSQ8p9hLoI98btR" version="16.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-24T11:26:28.090Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="VzsnYpvXRKAKSpC1m3g3" version="16.2.4" type="github">
   <diagram id="N0AUgcmTbGkNC3BxYgMO" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
         <mxCell id="MxBJ1zMMHjyBSrrAAL6q-42" value="&amp;lt;MetaValue_1&amp;gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=12;fontColor=#6C767D;" vertex="1" parent="1">
           <mxGeometry x="247" y="320" width="535" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="MxBJ1zMMHjyBSrrAAL6q-48" value="upload" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=14;spacing=5;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="MxBJ1zMMHjyBSrrAAL6q-48" value="Upload" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=14;spacing=5;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="18" y="245" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MxBJ1zMMHjyBSrrAAL6q-49" value="&lt;MetaAttri_2&gt;" style="fillColor=none;strokeColor=none;align=left;fontSize=12;fontColor=#212529;" vertex="1" parent="1">
@@ -65,7 +65,7 @@
         <mxCell id="MxBJ1zMMHjyBSrrAAL6q-54" value="&amp;lt;MetaValue_4&amp;gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=12;fontColor=#6C767D;" vertex="1" parent="1">
           <mxGeometry x="247" y="395" width="535" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="MxBJ1zMMHjyBSrrAAL6q-57" value="Inter or upload Metadata" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#868E96;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="MxBJ1zMMHjyBSrrAAL6q-57" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Insert or upload Metadata&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#6C767D;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="160" y="240" width="630" height="40" as="geometry" />
         </mxCell>
       </root>
